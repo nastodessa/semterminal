@@ -12,7 +12,7 @@
     </style>
     <script>
             function accionParaCuandoEllaDigaQueSi(){
-                alert('Agora a gente ta casado(de novo) ❤️')
+                alert('❤️')
             }
 
             function mueveElBoton(){
@@ -30,7 +30,7 @@
             }
     </script>
     </head>
-        <h3>Quer casar comigo?</h3>
+        <h3>Promete começar a se cuidar?</h3>
      <input type="button" onclick="accionParaCuandoEllaDigaQueSi()" id="btnSi" value="Sim" />
      <input type="button" id="btnNo" onmouseover="mueveElBoton()" value="Não" />
 </body>
